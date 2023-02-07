@@ -1,13 +1,5 @@
-<h1 align="center">Hi, I'm Nursultan,Java Developer</h1>
+<h1 align="center">Hi, I'm Nursultan, Java Developer</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **Java** and **SpringBoot**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: 60.nursultank@gmail.com
-- ⚡ Fun fact: ...
 -->
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -19,5 +11,5 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="" alt="CI CD" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="40" height="40"/> </a>
 </p>
