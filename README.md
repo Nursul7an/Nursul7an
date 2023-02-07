@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Nursultan Altymyshov</h1>
-                       A passionate frontend developer from India
+<h1 align="center">Hi, I'm Nursultan, Java Developer</h1>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
